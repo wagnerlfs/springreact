@@ -1,2 +1,2 @@
 # springreact
-Projeto Exemplo Spring com React - SchoolOfNet
+Projeto Teste Spring com React
